@@ -1,0 +1,117 @@
+
+    @media (min-width: 768px) and (max-width: 1180px)  {
+
+
+    .menubar {
+      width: 1180px;
+      height: 42px;
+    }
+
+    .logo {
+      width: 58px;
+      height: 16px;
+    }
+
+
+    p {
+      font-size: 16px;
+      line-height: 26px;
+      margin-top: 19px;
+    }
+
+    h2 {
+      font-size: 30px;
+      line-height: 39px;
+    }
+
+    .Landing {
+      height: 2275px;
+    }
+
+    .section {
+      height: 568px;
+    }
+
+    .green {
+      top: 240px;
+      width: 27px;
+      height: 3.49px;
+    }
+
+    .textOne {
+      top: 134px;
+      width: 342px;
+      left: 40px;
+    }
+
+    .textTwo {
+      top: 134px;
+      width: 342px;
+      right: 40px;
+    }
+
+    .picOne {
+      height: 851px;
+      width: 376px;
+      right: 40px;
+
+    }
+
+    .textFour {
+      top: 134px;
+      width: 548px;
+    }
+
+    .picThree {
+      top: 243px;
+      left: 380px;
+      width: 570px;
+      height: 400px;
+    }
+
+    .flex {
+
+    }
+
+    #mockup3 {
+      height: 851px;
+      width: 400px;
+      margin-top: 140px;
+      margin-right: 30px;
+      margin-left: 40px;
+
+    }
+
+    #mockup4 {
+      height: 851px;
+      width: 400px;
+      margin-top: 140px;
+      margin-right: 30px;
+    }
+
+    #mockup5 {
+      height: 851px;
+      width: 400px;
+      margin-top: 140px;
+      margin-right: 30px;
+    }
+
+    .buttom {
+      height: 34px;
+      width: 214px;
+      line-height: 32px;
+      font-size: 12px;
+    }
+
+    .big {
+      font-size: 14px;
+    }
+
+    .small {
+      width: 780px;
+      height: 18px;
+      font-size: 12px;
+      line-height: 36px;
+    }
+
+  }
